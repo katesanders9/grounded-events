@@ -2,7 +2,7 @@
 
 **Presented at the [Vision Datasets Understanding Workshop](https://sites.google.com/view/vdu-cvpr24/) at CVPR 2024.**
 
-**Link to paper [here](https://openaccess.thecvf.com/content/CVPR2024W/VDU/html/Sanders_A_Survey_of_Video_Datasets_for_Grounded_Event_Understanding_CVPRW_2024_paper.html)**
+**[Check out the paper!](https://openaccess.thecvf.com/content/CVPR2024W/VDU/html/Sanders_A_Survey_of_Video_Datasets_for_Grounded_Event_Understanding_CVPRW_2024_paper.html)**
 
 ![<Alt Text>](https://github.com/katesanders9/grounded-events/blob/main/poster.png?raw=true)
 
